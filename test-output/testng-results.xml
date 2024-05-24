@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-07T10:49:16 IST" name="Default suite" finished-at="2024-05-07T10:49:23 IST" duration-ms="6890">
+    <groups>
+    </groups>
+    <test started-at="2024-05-07T10:49:16 IST" name="Default test" finished-at="2024-05-07T10:49:23 IST" duration-ms="6890">
+      <class name="SwagLabs.SauceDemo">
+        <test-method signature="OpenApp()[pri:1, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:16 IST" name="OpenApp" finished-at="2024-05-07T10:49:19 IST" duration-ms="3552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenApp -->
+        <test-method signature="Login()[pri:2, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:19 IST" name="Login" finished-at="2024-05-07T10:49:20 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="Search()[pri:3, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="Search" finished-at="2024-05-07T10:49:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method signature="AddtoCart()[pri:4, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="AddtoCart" finished-at="2024-05-07T10:49:20 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddtoCart -->
+        <test-method signature="GoToCart()[pri:5, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="GoToCart" finished-at="2024-05-07T10:49:20 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToCart -->
+        <test-method signature="CheckOut()[pri:6, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="CheckOut" finished-at="2024-05-07T10:49:20 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOut -->
+        <test-method signature="CheckOutInformation()[pri:7, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="CheckOutInformation" finished-at="2024-05-07T10:49:20 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckOutInformation -->
+        <test-method signature="Continue()[pri:8, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="Continue" finished-at="2024-05-07T10:49:20 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Continue -->
+        <test-method signature="Finish()[pri:9, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="Finish" finished-at="2024-05-07T10:49:20 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Finish -->
+        <test-method signature="BackHome()[pri:10, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="BackHome" finished-at="2024-05-07T10:49:20 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BackHome -->
+        <test-method signature="Logout()[pri:11, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:20 IST" name="Logout" finished-at="2024-05-07T10:49:22 IST" duration-ms="2180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method signature="CloseApp()[pri:12, instance:SwagLabs.SauceDemo@3daa422a]" started-at="2024-05-07T10:49:22 IST" name="CloseApp" finished-at="2024-05-07T10:49:23 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- SwagLabs.SauceDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
